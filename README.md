@@ -7,7 +7,7 @@
 6.https://www.weareskribbl.com/
 7.https://www.icons8.com/illustrations
 
-<h5>Right approach to push local repository</h5>
+<h3>Right approach to push local repository</h3>
 git init <br>
 git add README.md<br>
 git add .
